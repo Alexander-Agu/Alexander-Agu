@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on food finders, a webapp that intergrates AI that's supposed to help users decide their next meal. I'm using plain HTML, CSS & JavaScript because I'm still in the learning phase of react.
+I'm Alex and im just in the beginning of my programming journy, if you are a looking to callab just know im aready saying yes. Let's get to work
 
 
 ## 🌐 Socials:
