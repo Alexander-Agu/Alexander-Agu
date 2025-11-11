@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineering student at WeThinkCode_ (Gauteng) with a passion for building practical software solutions.<br>I enjoy taking on challenging projects that help me grow as a developer and allow me to apply new technologies in creative ways.<br><br>💻 Technical Focus<br><br>Experienced in Java, C#, ASP.NET, React, and SQL for building full-stack applications.<br>Comfortable working with Docker for containerization and SQLite/MySQL for database design.<br>Driven by curiosity and continuous improvement — whether it’s designing APIs, implementing authentication, or refining front-end experiences with React and CSS, I strive to deliver reliable and user-friendly solutions.
+I’m a final-year Software Engineering student at WeThinkCode_ (Gauteng) passionate about building practical, user-friendly software solutions. I enjoy tackling challenging projects, exploring new technologies, and continuously improving through hands-on experience in API design, authentication, and front-end development with React and CSS
 
 🌐 **Check out my portfolio:**  
 👉 [**my-portfoliov2-eight.vercel.app**](https://my-portfoliov2-eight.vercel.app/)
