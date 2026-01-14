@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year Software Engineering student at WeThinkCode_ (Gauteng) passionate about building practical, user-friendly software solutions. I enjoy tackling challenging projects, exploring new technologies, and continuously improving through hands-on experience in API design, authentication, and front-end development with React and CSS
+I’m a WeThinkCode_ (Gauteng) Alumni passionate about building practical, user-friendly software solutions. I enjoy tackling challenging projects, exploring new technologies, and continuously improving through hands-on experience in API design, authentication, and front-end development with React and CSS
 
 🌐 **Check out my portfolio:**  
 👉 [**my-portfoliov2-eight.vercel.app**](https://my-portfoliov2-eight.vercel.app/)
